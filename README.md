@@ -12,4 +12,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiepNP0901&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HiepNP0901&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HiepNP0901&theme=radical)
