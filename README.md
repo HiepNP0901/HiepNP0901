@@ -7,9 +7,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 - 😄 Pronouns: he/him
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiepNP0901&show_icons=true&theme=radical" alt="Hiep's GitHub Stats" />
+</p>
 
-![Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiepNP0901&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HiepNP0901&theme=radical" alt="GitHub Trophy" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiepNP0901&layout=compact&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HiepNP0901&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiepNP0901&layout=compact&theme=radical" alt="Top Langs" />
+</p>
