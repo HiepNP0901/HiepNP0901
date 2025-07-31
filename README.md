@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Hiep Nguyen
 
-<!--
-**HiepNP0901/HiepNP0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building cool projects. Here’s a bit about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Android development (Kotlin) and Flutter (Dart), focusing on building robust mobile applications.
+- 📫 How to reach me: ngphuchiep203@gmail.com
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Hiep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiepNP0901&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiepNP0901&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HiepNP0901&theme=radical)
